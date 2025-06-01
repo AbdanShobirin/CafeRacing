@@ -1,0 +1,11 @@
+# Android
+/local.properties
+*.jks
+*.keystore
+google-services.json
+
+# Secrets
+*.env
+
+# Build
+/build/
