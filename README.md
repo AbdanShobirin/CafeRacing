@@ -9,7 +9,7 @@
 2. Imam Permana <br>
 3. Rifqi Bayu Sasongko <br>
 4. Egi Febriansyah <br>
-5. Sandhy Ardiansyah <br>
+5. Shandy Ardiansyah <br>
 
 <p align="center">
   <img src="image(3).jpg"><br>
