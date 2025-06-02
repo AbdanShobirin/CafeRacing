@@ -12,7 +12,7 @@
 5. Sandhy Ardiansyah <br>
 
 <p align="center">
-  <img src="image(3).jpg" alt="Logo" width="300"><br>
+  <img src="image(3).jpg"><br>
 </p>
 
 
