@@ -15,6 +15,8 @@
   <img src="image(3).jpg"><br>
 </p>
 
+## Tentang Cafe Racing
+Since 2025 Cafe Racing lahir dari mimpi lima pemuda harapan bangsa yang memiliki semangat dan visi yang sama: menciptakan ruang hangat dan inspiratif bagi siapa saja yang datang. Berawal dari pertemanan, kegemaran akan kopi, dan keinginan kuat untuk membangun sesuatu yang bermakna, kami membentuk kafe ini sebagai wadah kolaborasi antara rasa, suasana, dan cerita.
 
 ## Website
 https://caferacing.alfazza.my.id/home.php
