@@ -1,5 +1,9 @@
-# CAFE RACING
-  <img src="https://i.pinimg.com/736x/a3/dd/21/a3dd212965b4d0a0d9abc1004b524c69.jpg" alt="Logo" width="150px" height="150px"><br>
+<h1 align="center">WELCOME TO MY PROJECT!</h1>
+<h1 align="center">CAFE SELF SERVICE</h1>
+<p align="center">
+  <img src="template/masuk/images/cafe.jpg" alt="Logo" width="300"><br>
+</p>
+
 ## Project By Kelompok 1
 1. Abdan Shobirin <br>
 2. Imam Permana : <br>
